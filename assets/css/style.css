@@ -1,0 +1,21 @@
+body{
+    background: black;
+}
+
+
+.jumbotron{
+    background-image: url("https://image.freepik.com/free-vector/abstract-high-speed-train-logo_23-2147510976.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #42adf4;
+    font-family: 'Volkhov', serif;
+}
+
+.card{
+    font-family: 'Source Code Pro', monospace;
+    border: solid;
+    
+
+    
+}
+
